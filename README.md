@@ -1,5 +1,5 @@
 ## Analog Clock 🎯
-
+Responsive Analog Clock Ui Design Using HTML CSS & JavaScript.
 
 ![Language count](https://img.shields.io/github/languages/count/letnagao/analog-clock?color=green)
 ![Top language](https://img.shields.io/github/languages/top/letnagao/analog-clock?color=ff69b4)
@@ -15,18 +15,6 @@
 </p>  
 
 
-## Website 💻
-
-
-## Features 🔥
-✔️ <br />
-✔️ <br />
-✔️ <br />
-
-## Technologies used 🛠️
-**Design**: *Css & Styled Components*<br />
-
-
 ## Usage 📋
 <details open>
 <summary>1. Server Setup</summary>
@@ -39,6 +27,12 @@
 ```
 
 </details>
+
+## Disclamer ❗️
+A word of disclaimer, this code is not original! 
+I am simply a student passionate about Front-end and the intersection of code and design, I always try to do courses and projects during my free time, so I must warn you that this code is NOT ORIGINAL.
+
+You can find the source of this code via: https://www.youtube.com/c/Bedimcode
 
 ## Contributing 💡
 Pull request are welcome but please open an issue and discuss what you will do before 😊
