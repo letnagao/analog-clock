@@ -11,9 +11,9 @@ Responsive Analog Clock Ui Design Using HTML CSS & JavaScript.
 
 </ul><h2> Preview ⚡️</h2>
 <p align="center">
-  <img src="" />
+  <img src="https://user-images.githubusercontent.com/99754900/212083322-085abc3f-5c34-4f82-ae22-da5532bf8f86.jpg" />
+  <img src="https://user-images.githubusercontent.com/99754900/212083335-534fe2d3-3e9e-41d9-a8e8-f67e8bfd8117.jpg" />
 </p>  
-
 
 ## Usage 📋
 <details open>
