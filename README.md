@@ -24,9 +24,18 @@ Responsive Analog Clock Ui Design Using HTML CSS & JavaScript.
 ~ git clone https://github.com/letnagao/analog-clock.git
 #2. cd into it
 ~ cd analog-clock
+#3. click on index or use go live extension on VSC
+~ index.html
 ```
 
 </details>
+
+## Features 🔥
+✔️ Responsive Analog Clock Ui Design Using HTML CSS & JavaScript <br /> 
+✔️ It contains a stylish and beautiful background. <br /> 
+✔️ With animation of floating labels. <br /> 
+✔️ Developed first with the Mobile First methodology, then for desktop <br /> 
+✔️ Compatible with all mobile devices. <br /> 
 
 ## Disclamer ❗️
 A word of disclaimer, this code is not original! 
