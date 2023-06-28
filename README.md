@@ -10,10 +10,14 @@ Responsive Analog Clock Ui Design Using HTML CSS & JavaScript.
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
 </ul><h2> Preview ⚡️</h2>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/99754900/212083322-085abc3f-5c34-4f82-ae22-da5532bf8f86.jpg" />
-  <img src="https://user-images.githubusercontent.com/99754900/212083335-534fe2d3-3e9e-41d9-a8e8-f67e8bfd8117.jpg" />
-</p>  
+<table align="center">
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/99754900/212083322-085abc3f-5c34-4f82-ae22-da5532bf8f86.jpg" width=890 height=480></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/99754900/212083335-534fe2d3-3e9e-41d9-a8e8-f67e8bfd8117.jpg" width=890 height=480></td>
+  </tr>
+</table>
 
 ## Usage 📋
 <details open>
